@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b243ffc9abfb245832585503ff825b, type: 3}
+  m_Name: Helmet
+  m_EditorClassIdentifier: 
+  name: Helmet
+  description: A strong protection made whit iron .
+  visual: {fileID: 21300000, guid: 358541a3db89a6f45956a5d4726d7312, type: 3}
+  prefab: {fileID: 8774946125858139325, guid: cb3b8d3e488e8624a898cc465e313ec0, type: 3}
+  itemType: 1
